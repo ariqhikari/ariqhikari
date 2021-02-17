@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Ariq!
-Currently, I am open to any opportunity especially in IT as a Website Developer and Mobile Developer.
+Currently, I am open to any opportunity especially in IT as a Web Developer and Mobile Developer.
 
 ### Stats:
 <details>
