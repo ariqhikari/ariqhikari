@@ -14,6 +14,6 @@ Currently, I am open to any opportunity especially in IT as a Web Developer and 
 
 ### Let's connect!
 <p>
-    <a href="https://hikari.auroraweb.id" target="blank"><img src="https://img.shields.io/badge/Website-https://hikari.miraistudio.id-green?" /></a>
+    <a href="https://hikari.auroraweb.id" target="blank"><img src="https://img.shields.io/badge/Website-https://hikari.auroraweb.id-green?" /></a>
     <a href="https://www.linkedin.com/in/ariqhikari" target="blank"><img src="https://img.shields.io/badge/Ariq_Hikari-30302f?style=flat&logo=linkedin" /></a>
 </p>
