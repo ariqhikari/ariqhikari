@@ -5,7 +5,7 @@ Currently, I am open to any opportunity especially in IT as a Web Developer and 
 - 🌱 I’m currently learning **Web** and **Mobile** Development
 - 👯 I’m looking to collaborate on **Open Source** projects
 - 💬 Ask me about anything.
-- 📫 How to reach me: <a href="mailto:ahidayatbia@gmail.com">Email me!</a>
+- 📫 How to reach me: <a href="mailto:ariqhikari@gmail.com">Email me!</a>
 - 😄 Pronouns: He/Him
 
 <p>
