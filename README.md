@@ -9,7 +9,7 @@ Currently, I am open to any opportunity especially in IT as a Web Developer and 
 - 😄 Pronouns: He/Him
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ariqhikari&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ariqhikari&hide=contribs,prs&show_icons=true&hide_border=true&theme=graywhite" />
 </p>
 
 ### Let's connect!
