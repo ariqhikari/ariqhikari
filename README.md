@@ -8,8 +8,11 @@ Currently, I am open to any opportunity especially in IT as a Web Developer and 
 - 📫 How to reach me: <a href="mailto:ariqhikari@gmail.com">Email me!</a>
 - 😄 Pronouns: He/Him
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ariqhikari&hide=contribs,prs&show_icons=true&theme=graywhite" />
+<p align="left">
+<a href="https://github.com/ariqhikari">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ariqhikari&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ariqhikari&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 ### Let's connect!
