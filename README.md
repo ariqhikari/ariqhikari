@@ -1,7 +1,7 @@
 # Hi there 👋 , I'm Ariq!
 Currently, I am open to any opportunity especially in IT as a Web Developer and Mobile Developer.
 
-- 🔭 I’m currently studying **Informatics Engineering** at Indonesian Computer University
+- 🔭 I’m currently studying **Informatics Engineering** at Universitas Komputer Indonesia
 - 🌱 I’m currently learning **Web** and **Mobile** Development
 - 👯 I’m looking to collaborate on **Open Source** projects
 - 💬 Ask me about anything.
